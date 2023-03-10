@@ -1,7 +1,7 @@
 ## Hi, my name is Andrey, and I am a junior frontend developer 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on my own favorite pet-projects.<br>👯 I’m looking to collaborate on on interesting projects with an experienced team to improve my skills.<br>🤝 I’m looking for help with with finding a job. I am ready for all other difficulties.<br>🌱 I’m currently learning advanced development on react.js and its environment + a bit of a backend on node.js and databases.<br>💬 Ask me about the best programming language of all time in the world and I will answer "the one I write in".<br>⚡ Fun fact - a programmer is not a computer repair specialist))
+🔭 I’m currently working on my own favorite pet-projects.<br>👯 I’m looking to collaborate on on interesting projects with an experienced team to improve my skills.<br>🤝 I’m looking for help with finding a job. I am ready for all other difficulties.<br>🌱 I’m currently learning advanced development on react.js and its environment + a bit of a backend on node.js and databases.<br>💬 Ask me about the best programming language of all time in the world and I will answer "the one I write in".<br>⚡ Fun fact - a programmer is not a computer repair specialist))
 
 
 ## 💻 Tech Stack:
