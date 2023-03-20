@@ -1,7 +1,11 @@
-## Hi, my name is Andrey, and I am a junior frontend developer 👋
+## Hi there, I'm Andrey, and I'm a frontend developer 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on my own favorite pet-projects.<br>👯 I’m looking to collaborate on on interesting projects with an experienced team to improve my skills.<br>🤝 I’m looking for help with finding a job. I am ready for all other difficulties.<br>🌱 I’m currently learning advanced development on react.js and its environment + a bit of a backend on node.js and databases.<br>💬 Ask me about the best programming language of all time in the world and I will answer "the one I write in".<br>⚡ Fun fact - a programmer is not a computer repair specialist))
+🔭 I’m currently working on my own favorite pet-projects.<br>
+👯 I’m looking to collaborate on on interesting projects with an experienced team to improve my skills.<br>
+🌱 I’m currently learning advanced development on react.js and its environment + a bit of a backend on node.js and databases.<br>
+💬 Ask me about the best programming language of all time in the world and I will answer "the one I write in".<br>
+⚡ Fun fact - a programmer is not a computer repair specialist
 
 
 ## 💻 Tech Stack:
@@ -39,10 +43,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andy-webCraft&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andy-webCraft&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=andy-webCraft&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-webCraft&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
